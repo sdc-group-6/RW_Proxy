@@ -26,28 +26,42 @@ app.use(express.static(path.join(__dirname, '/../public')));
 
 app.use('/shoes',
   proxy({
-    target: "http://127.0.0.1:8001",
+    target: "http://ec2-54-165-205-234.compute-1.amazonaws.com:8001",
     changeOrigin: true
   })
 );
 
 app.use('/shoes/:shoeId',
   proxy({
-    target: "http://127.0.0.1:8001",
+    target: "http://ec2-54-165-205-234.compute-1.amazonaws.com:8001",
     changeOrigin: true
   })
 );
 
 app.use('/looks/:id',
   proxy({
-    target: "http://127.0.0.1:8001",
+    target: "http://ec2-54-165-205-234.compute-1.amazonaws.com:8001",
     changeOrigin: true
   })
 );
 
 app.use('/shares/:id',
   proxy({
-    target: "http://127.0.0.1:8001",
+    target: "http://ec2-54-165-205-234.compute-1.amazonaws.com:8001",
+    changeOrigin: true
+  })
+);
+
+app.use('/product',
+  proxy({
+    target: "http://ec2-54-165-205-234.compute-1.amazonaws.com:8001",
+    changeOrigin: true
+  })
+);
+
+app.use('/product/:id',
+  proxy({
+    target: "http://ec2-54-165-205-234.compute-1.amazonaws.com:8001",
     changeOrigin: true
   })
 );
