@@ -1,0 +1,46 @@
+{"v":0,"level":30,"name":"newrelic","hostname":"ronnys-mbp.lan","pid":27167,"time":"2019-03-11T07:25:09.928Z","msg":"Using New Relic for Node.js. Agent version: 5.6.0; Node version: v11.9.0."}
+{"v":0,"level":40,"name":"newrelic","hostname":"ronnys-mbp.lan","pid":27167,"time":"2019-03-11T07:25:09.933Z","msg":"New Relic for Node.js 5.6.0 has not been tested on Node.js v11.9.0. Please update the agent or downgrade your version of Node.js"}
+{"v":0,"level":30,"name":"newrelic","hostname":"ronnys-mbp.lan","pid":27167,"time":"2019-03-11T07:25:10.202Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"ronnys-mbp.lan","pid":27167,"time":"2019-03-11T07:25:12.513Z","msg":"Connected to collector-007.newrelic.com:443 with agent run ID BLxffyFYViYyACKa8BCxWU1chg2IAAgBAAAjHQECBBCJV9IDAAU1LjYuMAAOcm9ubnlzLW1icC5sYW4ACFJXX1Byb3h5.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"ronnys-mbp.lan","pid":27167,"time":"2019-03-11T07:25:12.514Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2267888/applications/277436370","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"ronnys-mbp.lan","pid":29177,"time":"2019-03-11T07:29:55.623Z","msg":"Using New Relic for Node.js. Agent version: 5.6.0; Node version: v11.9.0."}
+{"v":0,"level":40,"name":"newrelic","hostname":"ronnys-mbp.lan","pid":29177,"time":"2019-03-11T07:29:55.627Z","msg":"New Relic for Node.js 5.6.0 has not been tested on Node.js v11.9.0. Please update the agent or downgrade your version of Node.js"}
+{"v":0,"level":30,"name":"newrelic","hostname":"ronnys-mbp.lan","pid":29177,"time":"2019-03-11T07:29:55.885Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"ronnys-mbp.lan","pid":29177,"time":"2019-03-11T07:29:57.984Z","msg":"Connected to collector-007.newrelic.com:443 with agent run ID BAmEN3pYVnWcACKa8BCxWU1chg54AAgBAAAjHQECBBCJV9IDAAU1LjYuMAAOcm9ubnlzLW1icC5sYW4ACFJXX1Byb3h5.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"ronnys-mbp.lan","pid":29177,"time":"2019-03-11T07:29:57.985Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2267888/applications/277436370","component":"collector_api"}
+{"v":0,"level":40,"name":"newrelic","hostname":"ronnys-mbp.lan","pid":29177,"time":"2019-03-11T07:40:59.047Z","msg":"Dropped 2937 of 12937 datapoints for analyticsEvents.","component":"Harvest"}
+{"v":0,"level":40,"name":"newrelic","hostname":"ronnys-mbp.lan","pid":29177,"time":"2019-03-11T07:40:59.047Z","msg":"You may want to increase the limits for this event type.","component":"Harvest"}
+{"v":0,"level":40,"name":"newrelic","hostname":"ronnys-mbp.lan","pid":29177,"time":"2019-03-11T07:41:59.049Z","msg":"Dropped 1043 of 11043 datapoints for analyticsEvents.","component":"Harvest"}
+{"v":0,"level":40,"name":"newrelic","hostname":"ronnys-mbp.lan","pid":29177,"time":"2019-03-11T07:41:59.049Z","msg":"You may want to increase the limits for this event type.","component":"Harvest"}
+{"v":0,"level":40,"name":"newrelic","hostname":"ronnys-mbp.lan","pid":29177,"time":"2019-03-11T07:42:59.050Z","msg":"Dropped 3224 of 13224 datapoints for analyticsEvents.","component":"Harvest"}
+{"v":0,"level":40,"name":"newrelic","hostname":"ronnys-mbp.lan","pid":29177,"time":"2019-03-11T07:42:59.050Z","msg":"You may want to increase the limits for this event type.","component":"Harvest"}
+{"v":0,"level":40,"name":"newrelic","hostname":"ronnys-mbp.lan","pid":29177,"time":"2019-03-11T07:43:59.051Z","msg":"Dropped 3199 of 13199 datapoints for analyticsEvents.","component":"Harvest"}
+{"v":0,"level":40,"name":"newrelic","hostname":"ronnys-mbp.lan","pid":29177,"time":"2019-03-11T07:43:59.051Z","msg":"You may want to increase the limits for this event type.","component":"Harvest"}
+{"v":0,"level":40,"name":"newrelic","hostname":"ronnys-mbp.lan","pid":29177,"time":"2019-03-11T07:44:59.052Z","msg":"Dropped 70 of 170 datapoints for errorEvents.","component":"Harvest"}
+{"v":0,"level":40,"name":"newrelic","hostname":"ronnys-mbp.lan","pid":29177,"time":"2019-03-11T07:44:59.052Z","msg":"You may want to increase the limits for this event type.","component":"Harvest"}
+{"v":0,"level":40,"name":"newrelic","hostname":"ronnys-mbp.lan","pid":29177,"time":"2019-03-11T07:44:59.052Z","msg":"Dropped 5539 of 15539 datapoints for analyticsEvents.","component":"Harvest"}
+{"v":0,"level":40,"name":"newrelic","hostname":"ronnys-mbp.lan","pid":29177,"time":"2019-03-11T07:44:59.052Z","msg":"You may want to increase the limits for this event type.","component":"Harvest"}
+{"v":0,"level":40,"name":"newrelic","hostname":"ronnys-mbp.lan","pid":29177,"time":"2019-03-11T07:45:59.053Z","msg":"Dropped 197 of 297 datapoints for errorEvents.","component":"Harvest"}
+{"v":0,"level":40,"name":"newrelic","hostname":"ronnys-mbp.lan","pid":29177,"time":"2019-03-11T07:45:59.053Z","msg":"You may want to increase the limits for this event type.","component":"Harvest"}
+{"v":0,"level":40,"name":"newrelic","hostname":"ronnys-mbp.lan","pid":29177,"time":"2019-03-11T07:45:59.053Z","msg":"Dropped 5839 of 15839 datapoints for analyticsEvents.","component":"Harvest"}
+{"v":0,"level":40,"name":"newrelic","hostname":"ronnys-mbp.lan","pid":29177,"time":"2019-03-11T07:45:59.053Z","msg":"You may want to increase the limits for this event type.","component":"Harvest"}
+{"v":0,"level":40,"name":"newrelic","hostname":"ronnys-mbp.lan","pid":29177,"time":"2019-03-11T07:46:59.057Z","msg":"Dropped 73 of 173 datapoints for errorEvents.","component":"Harvest"}
+{"v":0,"level":40,"name":"newrelic","hostname":"ronnys-mbp.lan","pid":29177,"time":"2019-03-11T07:46:59.057Z","msg":"You may want to increase the limits for this event type.","component":"Harvest"}
+{"v":0,"level":40,"name":"newrelic","hostname":"ronnys-mbp.lan","pid":29177,"time":"2019-03-11T07:46:59.057Z","msg":"Dropped 6417 of 16417 datapoints for analyticsEvents.","component":"Harvest"}
+{"v":0,"level":40,"name":"newrelic","hostname":"ronnys-mbp.lan","pid":29177,"time":"2019-03-11T07:46:59.057Z","msg":"You may want to increase the limits for this event type.","component":"Harvest"}
+{"v":0,"level":40,"name":"newrelic","hostname":"ronnys-mbp.lan","pid":29177,"time":"2019-03-11T07:47:59.058Z","msg":"Dropped 536 of 636 datapoints for errorEvents.","component":"Harvest"}
+{"v":0,"level":40,"name":"newrelic","hostname":"ronnys-mbp.lan","pid":29177,"time":"2019-03-11T07:47:59.058Z","msg":"You may want to increase the limits for this event type.","component":"Harvest"}
+{"v":0,"level":40,"name":"newrelic","hostname":"ronnys-mbp.lan","pid":29177,"time":"2019-03-11T07:47:59.058Z","msg":"Dropped 4857 of 14857 datapoints for analyticsEvents.","component":"Harvest"}
+{"v":0,"level":40,"name":"newrelic","hostname":"ronnys-mbp.lan","pid":29177,"time":"2019-03-11T07:47:59.058Z","msg":"You may want to increase the limits for this event type.","component":"Harvest"}
+{"v":0,"level":40,"name":"newrelic","hostname":"ronnys-mbp.lan","pid":29177,"time":"2019-03-11T07:48:59.058Z","msg":"Dropped 164 of 264 datapoints for errorEvents.","component":"Harvest"}
+{"v":0,"level":40,"name":"newrelic","hostname":"ronnys-mbp.lan","pid":29177,"time":"2019-03-11T07:48:59.058Z","msg":"You may want to increase the limits for this event type.","component":"Harvest"}
+{"v":0,"level":40,"name":"newrelic","hostname":"ronnys-mbp.lan","pid":29177,"time":"2019-03-11T07:48:59.058Z","msg":"Dropped 4778 of 14778 datapoints for analyticsEvents.","component":"Harvest"}
+{"v":0,"level":40,"name":"newrelic","hostname":"ronnys-mbp.lan","pid":29177,"time":"2019-03-11T07:48:59.058Z","msg":"You may want to increase the limits for this event type.","component":"Harvest"}
+{"v":0,"level":40,"name":"newrelic","hostname":"ronnys-mbp.lan","pid":29177,"time":"2019-03-11T07:49:59.060Z","msg":"Dropped 170 of 270 datapoints for errorEvents.","component":"Harvest"}
+{"v":0,"level":40,"name":"newrelic","hostname":"ronnys-mbp.lan","pid":29177,"time":"2019-03-11T07:49:59.060Z","msg":"You may want to increase the limits for this event type.","component":"Harvest"}
+{"v":0,"level":40,"name":"newrelic","hostname":"ronnys-mbp.lan","pid":29177,"time":"2019-03-11T07:49:59.060Z","msg":"Dropped 4270 of 14270 datapoints for analyticsEvents.","component":"Harvest"}
+{"v":0,"level":40,"name":"newrelic","hostname":"ronnys-mbp.lan","pid":29177,"time":"2019-03-11T07:49:59.060Z","msg":"You may want to increase the limits for this event type.","component":"Harvest"}
+{"v":0,"level":40,"name":"newrelic","hostname":"ronnys-mbp.lan","pid":29177,"time":"2019-03-11T07:50:59.064Z","msg":"Dropped 54 of 154 datapoints for errorEvents.","component":"Harvest"}
+{"v":0,"level":40,"name":"newrelic","hostname":"ronnys-mbp.lan","pid":29177,"time":"2019-03-11T07:50:59.064Z","msg":"You may want to increase the limits for this event type.","component":"Harvest"}
+{"v":0,"level":40,"name":"newrelic","hostname":"ronnys-mbp.lan","pid":29177,"time":"2019-03-11T07:50:59.065Z","msg":"Dropped 1138 of 11138 datapoints for analyticsEvents.","component":"Harvest"}
+{"v":0,"level":40,"name":"newrelic","hostname":"ronnys-mbp.lan","pid":29177,"time":"2019-03-11T07:50:59.065Z","msg":"You may want to increase the limits for this event type.","component":"Harvest"}

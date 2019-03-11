@@ -6,7 +6,8 @@
   "license": "ISC",
   "main": "index.js",
   "scripts": {
-    "start": "node proxy/server/server.js"
+    "start": "node proxy/server/server.js",
+    "loadtest": "artillery run loadtest.yml"
   },
   "devDependencies": {
     "gulp": "^4.0.0",
